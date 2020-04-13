@@ -3,7 +3,7 @@ authors = []
 date = 2020-04-12T18:30:00Z
 draft = true
 excerpt = "WIll it survive?"
-hero = "/images/Screenshot 2020-04-10 at 8.47.41 PM.png"
+hero = ""
 timeToRead = 0
 title = "Will the internet survive the lockdown?"
 
